@@ -16,7 +16,7 @@ CA2: Singapore Labour Market Analysis
 * A scatterplot
 * A boxplot 
 
-4. Marks would be given for:
+4. Extra marks would be given for:
 * Storing and retrieving data in a relational database such as mySQL or a NoSQL database like MongoDB on at least one of the datasets, or
 * Producing interactive visualisations that allow the users to view the data in different ways.
 
